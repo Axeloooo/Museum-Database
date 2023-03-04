@@ -67,7 +67,7 @@ This project was built using the following technologies:
   - Clone the repository with the git command:
 
   ```sh
-  git clone https://github.com/Maan-Khedr-ENSF-300/museum-project-team-18.git
+  git clone https://github.com/Axeloooo/Museum-Database.git
   ```
 
 - To run this program:
